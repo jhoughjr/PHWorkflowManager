@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FCD7391C-3E88-469E-B899-64AFE00A3A25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PHWorkflowManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>188B7409-13DA-4187-AE9B-590C3FF4A332</key>
+		<string>https://github.com/jhoughjr/PHWorkflowManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PHWorkflowManager.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>188B7409-13DA-4187-AE9B-590C3FF4A332</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jhoughjr/PHWorkflowManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>188B7409-13DA-4187-AE9B-590C3FF4A332</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>188B7409-13DA-4187-AE9B-590C3FF4A332</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PHWorkflowManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
